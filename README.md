@@ -3,7 +3,8 @@ A **real-time 1:1 chat app** built with **React Native (Expo)** and **Node.js + 
 Features include JWT authentication, live messaging, typing indicators, presence (online/offline), and message receipts.  
 Messages are stored in **MongoDB** for persistence.
 
-**Demo Url ** 
+**Demo Url**
+
 https://jainswati972003.wistia.com/medias/e4d3ew6zz4
 
 ## Requirements
