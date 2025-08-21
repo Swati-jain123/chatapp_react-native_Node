@@ -35,8 +35,8 @@ https://jainswati972003.wistia.com/medias/e4d3ew6zz4
 - on: message:new, message:updated, typing, presence
 
 ## Sample Users
-- alice@example.com / Passw0rd!
-- bob@example.com / Passw0rd!
+- alice@example.com /12345
+- bob@example.com / 12345!
 
 ## Notes
 - For device testing, replace `localhost` with your machine IP in mobile `.env`.
