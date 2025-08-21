@@ -1,4 +1,7 @@
 # React Native + Node Chat (Socket.IO)
+A **real-time 1:1 chat app** built with **React Native (Expo)** and **Node.js + Socket.IO**.  
+Features include JWT authentication, live messaging, typing indicators, presence (online/offline), and message receipts.  
+Messages are stored in **MongoDB** for persistence.
 
 ## Requirements
 - Node 18+
